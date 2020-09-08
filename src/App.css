@@ -1,0 +1,25 @@
+*{
+  background: darkblue;
+  color: white
+}
+html{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  height: 100vh;
+  background-color: indigo;
+}
+#box{
+  height: 30vh;
+}
+.input {
+  display: inline-block;
+  margin: 2em
+}
+.equal {
+  padding-left: 4.5em
+}
+.headline {
+  margin: 1em
+}
